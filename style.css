@@ -1,0 +1,21 @@
+.heading{
+    font-family:roboto;
+    display:block;
+    position:-webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background-color: lightgray;
+    font-weight: 700;
+    font-size:50px;
+}
+.names{
+    font-family: roboto;
+    margin-top: 10px;;
+    display:block;
+    border-bottom:2px solid lightgray;
+    font-size:25px;
+}
+div{
+    margin:auto;
+    border:5px solid black;
+    width:60vw;
